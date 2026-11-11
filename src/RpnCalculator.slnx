@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RpnCalculator.Web/RpnCalculator.Web.csproj" />
+  <Project Path="RpnCalculator/RpnCalculator.csproj" />
+</Solution>
